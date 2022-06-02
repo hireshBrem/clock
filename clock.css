@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: lightskyblue;
+    text-align: center;
+    font-size:70px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+#container{
+    border: 7px solid lightskyblue;
+    margin-top: 60px;
+}
